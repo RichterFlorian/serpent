@@ -33,7 +33,7 @@
         echo "</table>";
 
         ?>
-            <button id="btn-de" type="button" onClick="lancerDe(1, 1)">Lancer le dé</button></div>
+            <button id="btn-de" type="button" onClick="lancerDe(1, false)">Lancer le dé</button></div>
         <?php
 
     }
